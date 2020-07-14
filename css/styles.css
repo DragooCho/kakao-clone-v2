@@ -43,7 +43,7 @@ main {
   animation: fadeIn 0.5s ease-in-out;
 }
 
-/* test area */
+/* add area */
 
 .chats__chat {
   border-bottom: 15px solid rgb(255, 255, 255);
@@ -61,4 +61,7 @@ main {
 
 .chat-top {
   margin-top: 120px;
+}
+.chats {
+  min-height: 120vh;
 }
