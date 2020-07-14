@@ -174,8 +174,8 @@
     rgba(0, 0, 0, 0.024) 0px -6px 16px -6px;
   padding: 10px 20px;
   border-radius: 20px;
-  color: white;
-  font-weight: 600;
+  color: rgb(255, 255, 255);
+  font-weight: 400;
 }
 
 .incoming-message .message__author {
@@ -189,16 +189,17 @@
 .incoming-message .message__bubble {
   border-bottom-left-radius: 0px;
   background: linear-gradient(
-    to right,
-    rgba(241, 180, 142, 1) 0%,
-    rgba(241, 180, 142, 1) 8%,
-    rgba(255, 123, 46, 1) 23%,
-    rgba(241, 180, 142, 1) 39%,
-    rgba(185, 95, 39, 1) 55%,
-    rgba(241, 180, 142, 1) 67%,
-    rgba(210, 127, 75, 1) 83%,
-    rgba(239, 212, 195, 1) 98%,
-    rgba(239, 212, 195, 1) 100%
+    135deg,
+    rgba(248, 152, 84, 1) 0%,
+    rgba(248, 152, 84, 1) 7%,
+    rgba(255, 206, 168, 1) 18%,
+    rgba(255, 133, 46, 1) 28%,
+    rgba(255, 209, 179, 1) 40%,
+    rgba(255, 105, 5, 1) 50%,
+    rgba(255, 239, 229, 1) 64%,
+    rgba(251, 109, 14, 1) 77%,
+    rgba(255, 216, 194, 1) 92%,
+    rgba(255, 216, 194, 1) 100%
   );
 }
 
