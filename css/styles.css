@@ -46,23 +46,42 @@ main {
 /* add area */
 
 .chats__chat {
-  border-bottom: 15px solid rgb(255, 255, 255);
+  border-bottom: 15px solid rgba(51, 85, 138, 0);
 }
 
 .header-wrapper-Chats {
   position: fixed;
-  background-color: white;
+  background-color: rgba(99, 108, 156, 0.815);
   padding: 5px 0px;
   top: 0px;
-  width: 94%;
-  border-top: 5px solid white;
-  box-shadow: 0 18px 36px -18px rgba(0, 0, 0, 0.3),
-    0 -12px 36px -8px rgba(0, 0, 0, 0.025);
+  width: 100%;
+  margin-left: -20px;
+  border-top: 5px solid rgba(255, 255, 255, 0);
+  box-shadow: 0px 0px 75px 25px rgba(0, 0, 0, 0.7);
   z-index: 2;
 }
 
 .chat-top {
   margin-top: 120px;
+}
+
+.NewBG {
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(
+      rgba(161, 161, 231, 0.671),
+      rgba(221, 221, 157, 0.644)
+    ),
+    url("../images/world.jpg");
+}
+
+.NewBG .new {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.NewBG .new {
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 /* body {
