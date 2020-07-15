@@ -20,7 +20,8 @@
   font-size: 22px;
   font-weight: 300;
 }
-.settings .settings__setting {
+.settings .settings__setting,
+.settings__setting .SHIELD {
   margin-bottom: 30px;
 }
 
