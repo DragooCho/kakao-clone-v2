@@ -20,6 +20,9 @@
 .nav .nav__list-link {
   position: relative;
 }
+.nav .nav__list-link .BicComents {
+  size: 20px;
+}
 
 .nav .nav__badge {
   position: absolute;
