@@ -2,9 +2,11 @@
   position: fixed;
   z-index: 2;
   padding: 5px 0px;
-  top: 5px;
+  top: 0px;
   width: 100%;
-  background-color: rgb(255, 255, 255);
+  border-top: 5px solid rgba(74, 86, 155, 0);
+  background-color: rgba(255, 255, 255, 0);
+  background-size: cover;
   background-image: linear-gradient(
       rgba(139, 151, 189, 0.74),
       rgba(113, 99, 163, 0.753)
