@@ -21,7 +21,7 @@
 }
 
 .more .more__suggestions {
-  border-top: 1px solid #f7f7f7;
+  border-top: 1px solid #aaaaaa;
   padding-top: 20px;
 }
 
@@ -46,5 +46,5 @@
 
 .suggestion__icon i {
   font-size: 28px;
-  color: white;
+  color: rgb(255, 255, 255);
 }
