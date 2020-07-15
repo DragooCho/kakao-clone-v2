@@ -18,7 +18,7 @@
   z-index: 4;
 }
 
-@media screen and (min-width: 570px) {
+@media screen and (min-width: 580px) {
   .bicScreen {
     display: flex;
   }
