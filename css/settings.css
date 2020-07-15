@@ -13,10 +13,7 @@
 }
 
 .settings__setting .IconAdd {
-  width: auto;
-  height: auto;
-  max-width: 10px;
-  max-height: 10px;
+  margin-right: 18px;
 }
 
 .settings__setting .settings__title {
@@ -29,4 +26,10 @@
 
 .settings .settings__setting:last-child {
   margin-bottom: 0;
+}
+
+/* add area */
+
+.settings .SectionFirst {
+  margin-top: 105px;
 }

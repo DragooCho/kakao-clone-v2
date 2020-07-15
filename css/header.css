@@ -24,3 +24,45 @@
   font-size: 22px;
   margin-right: 20px;
 }
+
+/* add area */
+
+.header-wrapper-settings {
+  position: fixed;
+  background-color: rgba(99, 108, 156, 0.815);
+  padding: 5px 0px;
+  top: 0px;
+  width: 100%;
+  margin-left: -20px;
+  border-top: 5px solid rgba(255, 255, 255, 0);
+  box-shadow: 0px 0px 75px 25px rgba(0, 0, 0, 0.7);
+  z-index: 2;
+}
+
+.headeradd {
+  display: flex;
+  justify-content: space-between;
+
+  margin-bottom: 30px;
+  align-items: center;
+}
+.headeradd .header__title {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.headeradd .header__icon {
+  font-size: 20px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.headeradd .header__header-column {
+  display: flex;
+  align-items: center;
+}
+
+.headeradd .header__back-btn {
+  font-size: 22px;
+  margin-right: 20px;
+}
