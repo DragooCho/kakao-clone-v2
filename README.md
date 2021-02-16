@@ -2,6 +2,7 @@
 
 ### 주요 기술 스택 - HTML, CSS, GitHub
 
+[👉 배포된 주소링크 👈](https://dragoocho.github.io/kakao-clone-v2/)
 
 - 프로그래밍 입문하면서 시작한 첫 프로젝트로서  
 카카오톡의 웹 디자인을 참조하고 프론트엔드까지 구현한 과제물입니다.<br />  
