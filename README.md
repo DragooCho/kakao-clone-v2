@@ -1,4 +1,4 @@
-## 코코아톡 웹 어플리케이션
+## 코코아톡 웹 어플리케이션 [![HitCount](http://hits.dwyl.com/dragoocho/DragooCho/kakao-clone-v2.svg)](http://hits.dwyl.com/dragoocho/DragooCho/kakao-clone-v2)
 
 ### 주요 기술 스택 - HTML, CSS, GitHub
 
